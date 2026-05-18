@@ -441,7 +441,7 @@
   <!-- NAV -->
   <nav>
     <div class="nav-container">
-      <div class="logo">NOIR FRAMES</div>
+      <div class="logo">Yusufs FRAMES</div>
 
       <div class="nav-links">
         <a href="#gallery">Photography</a>
@@ -532,7 +532,7 @@
 
       <div class="video-card">
         <div class="video-frame">
-          <iframe src="https://www.youtube.com/embed/tgbNymZ7vqY"
+          <iframe src="https://youtu.be/p8K8y2RiZbo?si=GvTCoUUSx0lczWua"
             allowfullscreen></iframe>
         </div>
 
@@ -577,7 +577,7 @@
 
   <!-- FOOTER -->
   <footer>
-    © 2026 Noir Frames — Crafted in shadows.
+    © 2026 Yusufs Frames — Crafted in shadows.
   </footer>
 
   <!-- LIGHTBOX -->
